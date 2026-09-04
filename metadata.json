@@ -1,0 +1,6 @@
+{
+  "name": "PG Finder",
+  "description": "Find your perfect PG accommodation across Chennai, Bangalore, Coimbatore, Madurai, and Hyderabad with verified amenities and instant booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
